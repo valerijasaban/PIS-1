@@ -6,5 +6,9 @@ namespace vjezba
 {
     class NewClass
     {
+        static void Main(string[] args)
+        {
+
+        }
     }
 }
